@@ -1,0 +1,97 @@
+
+/* .adduserbtn {
+    float: right;
+    margin-top: 18px;
+} */
+
+.searchinput {
+    width: auto !important;
+    float: right;
+    margin-left: 35px;
+}
+.card-body .tab-content {
+    margin-top: 20px;
+}
+.uil-users-alt,.uil-user-plus,.uil-chart-line {
+    margin-right: 10px;
+}
+
+.show-entries{
+    float:left;
+}
+svg.w-5.h-5 {
+    width: 1%;
+}
+
+.pagination .page-link {
+    border-radius: 50% !important;
+    border:none;
+    width: 32px;
+    height: 32px;
+    margin: 0 5px;
+}
+
+.pagination{
+    float:right;
+    /* margin-top: 15px; */
+}
+
+label.form-label.show-entries {
+    display: flex;
+    align-items: center;
+}
+select#show-entries {
+    margin: 0 5px 0 5px;
+}
+.user-pagination {
+    width: 50%;
+    float: left;
+}
+
+/* table.dataTable tbody tr.selected {
+     color: unset; 
+} */
+
+.mb-4{
+    color:red;
+}
+
+.dt-buttons.btn-group.flex-wrap {
+    float: left;
+    width: 50%;
+}
+div.dataTables_wrapper div.dataTables_filter {
+    text-align: right;
+    width: 50%;
+    float: left;
+}
+
+.filter_date {
+    position: relative;
+    top: 0px;
+    width: auto !important;
+    display: inline-block;
+
+}
+
+.c-loader {
+    width: 5% !important;
+    display: none;
+}
+div#reportrange {
+    display: inline-block;
+}
+
+div#scroll-horizontal-datatable_wrapper .dt-buttons.btn-group.flex-wrap button {
+    max-width: 75px;
+    margin-right: 10px;
+}
+
+.btn-color{
+    background-color: #6c757d !important;
+    border-color : #6c757d !important;
+}
+#all-delete{
+    pointer-events:none;
+    opacity:0.6;
+}

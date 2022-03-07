@@ -1,0 +1,12 @@
+{
+    "name": "lofty/user",
+    "description": "This salesloft data api do some get data",
+    "authors": [
+        {
+            "name": "Sparkle",
+            "email": "discuddion4all@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
